@@ -5,5 +5,10 @@ public class Hello {
         System.out.println("master3");
         System.out.println("master-test");
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
